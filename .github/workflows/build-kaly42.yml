@@ -9,3 +9,4 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["kaly/kaly42"]'
+      merge: '["qmk/qmk_firmware/master"]'
